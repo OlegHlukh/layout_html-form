@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,aACE,eACF,CAEA,UACE,kBACF,CAEA,wBACE,QACF","file":"style.584661cc.css","sourceRoot":"..\\src","sourcesContent":[".person_info {\n  margin: 0 0 10px;\n}\n\n.fieldset {\n  margin-bottom: 20px;\n}\n\n.person_info:last-child {\n  margin: 0;\n}\n"]}
